@@ -1,2 +1,2 @@
-# landing-page
+# Projects
 Main repo for projects
