@@ -1,3 +1,2 @@
 # landing-page
-My second GitHub repo!
-Hello Odin!
+Main repo for projects
